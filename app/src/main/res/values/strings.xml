@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guide For Sausage Man</string>
+    <string name="hello_guide">Hello Guide</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="start">Start Guide</string>
+    <string name="candy">Free Candies</string>
+    <string name="splash_info">Please Wait</string>
+    <string name="text_download">Download</string>
+
+</resources>
